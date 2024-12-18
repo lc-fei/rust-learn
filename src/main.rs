@@ -6,12 +6,12 @@ mod array;
 
 mod toption;
 
-mod genericsTrait;
+mod generics_trait;
 fn main() {
     // have_right::hr();
     // borrow::bf();
     // array::af();
     // toption::tf();
-    genericsTrait::gtf();
+    generics_trait::gtf();
 }
 
