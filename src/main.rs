@@ -11,6 +11,8 @@ mod generics_trait;
 mod vec_map;
 
 mod timeline;
+
+mod err;
 fn main() {
     // have_right::hr();
     // borrow::bf();
@@ -18,6 +20,7 @@ fn main() {
     // toption::tf();
     // generics_trait::gtf();
     // vec_map::vmf();
-    timeline::tlf();
+    // timeline::tlf();
+    err::ef();
 }
 
