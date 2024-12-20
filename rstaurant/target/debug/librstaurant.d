@@ -1,0 +1,1 @@
+/Users/yangbofei1/Desktop/project/my-rust-learn/rstaurant/target/debug/librstaurant.rlib: /Users/yangbofei1/Desktop/project/my-rust-learn/rstaurant/src/front_of_house.rs /Users/yangbofei1/Desktop/project/my-rust-learn/rstaurant/src/lib.rs
